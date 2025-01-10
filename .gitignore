@@ -1,0 +1,29 @@
+# Node.js projects
+node_modules/
+npm-debug.log
+
+# Python projects
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build files
+/dist/
+*.out
+*.exe
+
+# Ignore IDE/project-specific files
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.idea/
